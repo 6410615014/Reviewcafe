@@ -1,0 +1,11 @@
+#site_header{
+    position: relative;
+}
+#site_logo > h1{
+    font-size: 32px;
+    margin-bottom: 0;
+    line-height: 30%;
+}
+#search_form{
+    right: 0;
+}

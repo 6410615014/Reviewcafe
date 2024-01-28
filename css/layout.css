@@ -1,0 +1,16 @@
+section, nav{
+    margin: 0;
+    padding: 0;
+}
+#site_header , #menu_bar , #front_grid , #site_footer , #front_key_visual .visual-viewport {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 640px;
+    min-width: 400px;
+    margin: auto;
+}
+#front_key_visual{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+}

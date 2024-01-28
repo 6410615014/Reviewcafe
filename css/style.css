@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@300&family=Chonburi&display=swap');
+body{
+    font-family: "Athiti" , sans-serif;
+    font-size: 18px;
+    color: rgb(100,100,100);
+    margin:0 ;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Chonburi";
+    color: rgb(80,80,80);
+}
+a{
+    color: saddlebrown;
+    text-decoration: none;
+}
+a:hover{
+    color: chocolate;
+    text-decoration: underline;
+}
+.absolute-middle{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+form.style-1 input , form.style-1 button{
+    border-radius: 40px;
+    padding: 10px;
+    border: 1px solid #AAA;
+}
+form.style-1 button{
+    background: #AAA;
+    color: white;
+    cursor: pointer;
+}
+form.style-1 button:hover{
+    background: chocolate;
+}

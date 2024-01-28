@@ -1,0 +1,6 @@
+#front_key_visual{
+    background: white;
+}
+#front_key_visual .visual-viewport{
+    height: 350px;
+}
